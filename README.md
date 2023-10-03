@@ -1,7 +1,7 @@
 ## Gwendal Piemontesi's Github profile
 ### About me
 Im currently studying computer science at the [HEIG-VD](https://heig-vd.ch/).    
-With a background in electronics, I have developed skills in programming.    
+With a background in [electronics](https://www.cpne.ch/formations/electronicien-ne/), I have developed skills in programming.    
 I am seeking opportunities to apply my skills and contribute to innovative computer science projects.   
 
 ### Some skills 
