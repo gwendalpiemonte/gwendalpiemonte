@@ -1,8 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1f21&height=100&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e45b4&size=30&center=true&vCenter=true&width=1000&lines=Gwendal+Piemontesi's+Github+profile;)](https://git.io/typing-svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1f21&height=100&section=footer"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e45b4&size=30&center=left&vCenter=true&width=1000&lines=Gwendal+Piemontesi's+Github+profile;)](https://git.io/typing-svg)
 
 ### About me
 Im currently studying computer science at the [HEIG-VD](https://heig-vd.ch/).    
