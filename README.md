@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e45b4&size=30&center=left&vCenter=true&width=1000&lines=Gwendal+Piemontesi's+Github+profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb60d&size=30&center=left&vCenter=true&width=1000&lines=Gwendal+Piemontesi's+Github+profile;)](https://git.io/typing-svg)
 
 ### About me
 Im currently studying computer science at the [HEIG-VD](https://heig-vd.ch/).    
