@@ -7,7 +7,7 @@ I am seeking opportunities to apply my skills and contribute to innovative compu
 
    
 
-<img width='810' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasty-orange&theme=aura_dark" />
+<img width='810' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasty-orange&theme=ayu_mirage" />
 
 
 ### Some skills 
